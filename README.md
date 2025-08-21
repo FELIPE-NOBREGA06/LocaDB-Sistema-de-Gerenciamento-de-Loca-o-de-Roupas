@@ -8,7 +8,7 @@
 
 ## 📌 Descrição
 
-Este projeto foi concebido a partir de práticas de sala de aula em cursos de **Ciência da Computação** e **Sistemas de Informação**. A proposta é conduzir do **básico ao avançado**, sempre com **implementação passo a passo** e **exercícios práticos**. Você aprenderá desde a criação de tabelas e consultas até o desenvolvimento completo de um **banco relacional aplicado a um cenário comercial**.
+Este projeto foi concebido a partir de práticas de sala de aula em cursos de **Engenharia de Sofware**. A proposta é conduzir do **básico ao avançado**, sempre com **implementação passo a passo** e **exercícios práticos**. Você aprenderá desde a criação de tabelas e consultas até o desenvolvimento completo de um **banco relacional aplicado a um cenário comercial**.
 
 Durante as atividades utilizaremos **SQL (Structured Query Language)** e **PostgreSQL**, uma das SGBDs mais populares do mercado.
 
