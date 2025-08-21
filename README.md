@@ -212,30 +212,8 @@ ORDER BY 1;
 
 ---
 
-## 🤝 Contribuição
-
-1. Abra uma **issue** descrevendo a melhoria/bug.
-2. Crie um **branch**: `feature/descricao-breve`.
-3. Envie um **PR** com descrição clara e scripts testados.
-
-> **Padrão de commit:** `tipo(escopo): resumo` – ex.: `feat(schema): adicionar tabela locacao_item`.
-
----
-
 ## 📄 Licença
 
 Defina a licença do projeto (ex.: MIT). Inclua o arquivo `LICENSE` na raiz do repositório.
 
 ---
-
-## 🙌 Créditos
-
-Curso e roteiro baseados em experiências docentes, com foco em prática guiada e resolução de **200+ exercícios** cobrindo do CRUD a modelagem avançada e otimização.
-
----
-
-## 📫 Contato
-
-* Autor/Equipe: *informe aqui*
-* E‑mail: *informe aqui*
-* Instituição/Disciplina: *informe aqui*
