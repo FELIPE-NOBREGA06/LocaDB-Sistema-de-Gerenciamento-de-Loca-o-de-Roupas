@@ -12,6 +12,17 @@
 
 LocaDB é um sistema de gerenciamento de locação de roupas desenvolvido como projeto da disciplina de **Projeto de Banco de Dados**. O sistema gerencia clientes, produtos (roupas), pedidos de locação, vendedores, transportadoras e fornecedores de forma integrada e eficiente.
 
+### 🎬 Demonstração
+
+#### Sistema em Ação
+![Demo do Sistema](assets/demo.gif)
+
+#### Estrutura do Banco de Dados
+![Banco de Dados](assets/database.gif)
+
+#### Consultas SQL
+![Consultas](assets/queries.gif)
+
 ## 🎯 Funcionalidades Principais
 
 - ✅ Cadastro e gerenciamento de clientes
@@ -109,12 +120,12 @@ LocaDB/
 ## 🎓 Disciplina
 
 - **Curso:** Projeto de Banco de Dados
-- **Instituição:** [Sua Instituição]
-- **Período:** 2024
+- **Instituição:** UNIVAG 
+- **Período:** 2025/2
 
 ## 👨‍💻 Autor
 
-**Felipe Nóbrega**
+**Cleverson Felipe Nobrega Dos santos**
 - GitHub: [@FELIPE-NOBREGA06](https://github.com/FELIPE-NOBREGA06)
 
 ## 📝 Licença
